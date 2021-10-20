@@ -14,4 +14,5 @@ Extra points added for improvements made to the given task and additions to the 
 
 Details:
 I used XAMPP to localy create and test the implementation, with some changes made to XAMPP so it can send emails for the OTP via the php.ini.
-I created basic login and signup forms and also added a change password posibility 
+I created a basic login and signup forms app and also added a change password posibility, all of this use the OTP function.
+I have tested localy all scenarios and had success with the implementation.
